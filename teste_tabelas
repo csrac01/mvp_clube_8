@@ -1,0 +1,7 @@
+echo "# mvp_clube_8" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/csrac01/mvp_clube_8.git
+git push -u origin master
+                
